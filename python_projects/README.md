@@ -1,9 +1,9 @@
 
-# Python Projects
+# Python Project
 
 This folder contains hands-on Python projects built while learning core programming fundamentals.
 
----
+
 
 ## Hyderabad Metro Ticket Booking & Fare Management System
 
@@ -50,6 +50,8 @@ Age        : 22 (Adult)
 Route      : Miyapur -> Ameerpet
 Fare       : Rs. 25.00
 ------------------------------------------
+
+
 ```
 
 ### Possible Future Improvements
