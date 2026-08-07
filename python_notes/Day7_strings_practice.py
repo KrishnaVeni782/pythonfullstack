@@ -96,3 +96,58 @@ print(m.split(","))
 print(m.strip())
 print(m.encode())
 
+
+
+
+output:
+
+================================== RESTART: C:/Users/chinn/OneDrive/Desktop/pythonfullstack/python_notes/Day7_strings_practice.py =================================
+Krishnaveni
+<class 'str'> 1563233457776
+KrishnaVeni
+CodeGnan
+KrishnaKrishnaKrishnaKrishnaKrishna
+CodeCodeCode GnanGnan KrishnaKrishnaKrishnaKrishnaKrishna
+K
+n
+d a
+a
+ris
+
+True
+False
+7
+K
+s
+['K', 'a', 'h', 'i', 'n', 'r', 's']
+c
+65
+KRISHNA
+krishna
+False
+False
+Krishnaveni
+Krishnaveni
+kRISHNAVENI
+krishnaveni
+*******Venky********
+Venky++++
+-----Venky
+00000Venky
+6
+10
+0
+3
+True
+True
+True
+True
+False
+True
+False
+False
+False
+['ChinTuchinni']
+ChinTuchinni
+b'ChinTuchinni'
+
